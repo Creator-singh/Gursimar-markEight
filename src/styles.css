@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #f9fafb;
+}
+
+input {
+  width: 40%;
+  padding: 0.5rem;
+  border: 0.5px solid;
+  border-radius: 0.5rem;
+}
+
+#div-meaning {
+  padding: 2rem;
+}
+
+#span {
+  font-size: 2rem;
+  padding: 0.5rem 0.5rem;
+  cursor: pointer;
+}
